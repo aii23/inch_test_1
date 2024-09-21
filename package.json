@@ -77,7 +77,8 @@
     "ts-mockito": "2.6.1",
     "typescript": "5.5.2",
     "@types/ws": "^8.5.12",
-    "type-fest": "4.23.0"
+    "type-fest": "4.23.0",
+    "dotenv": "^16.4.5"
   },
   "peerDependencies": {
     "assert": "^2.0.0"
